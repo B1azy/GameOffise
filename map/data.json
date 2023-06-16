@@ -1,0 +1,18 @@
+{
+	"identifier": "OfficeMap",
+	"uniqueIdentifer": "ce658d90-c640-11ed-9f93-33d493311cbf",
+	"x": -1,
+	"y": -1,
+	"width": 512,
+	"height": 352,
+	"bgColor": "#1E2027",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"Builder.png",
+		"Interrior.png",
+		"Decor.png",
+		"Bilder2.png"
+	],
+	"entities" : {}
+}
